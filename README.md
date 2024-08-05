@@ -159,7 +159,7 @@ $\color{red}{\textsf{NO}}$
 $\color{red}{\textsf{NO}}$
 
 ## Discussion
-- No statistically significant positive correlation between CO2 levels, CO2 emissions, precipitation levels, human activity and average annual hectares burned from forest fires in BC
+- No statistically significant positive correlation between CO<sub>2</sub> levels, CO<sub>2</sub> emissions, precipitation levels, human activity and average annual hectares burned from forest fires in BC
 - Limitations
   - Skew in the number of fires due to reporting errors
   - Using Prince George as a representative of the entire BC
