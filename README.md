@@ -5,28 +5,28 @@ The topic chosen was the following: A Linear Correlational Analysis of the Influ
 and Prince George’s Precipitation Levels on the Yearly Hectares Burned by Forest Fires in British Columbia from 1990 to 2021. 
 The project discussed whether various types of fire-related data are positively correlated to each other.
 ## Table of Contents
-[Project Questions](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#project-questions)
+[Project Questions](#project-questions)
 
-[Project Methodology & Datasets](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#project-methodology--datasets)
+[Project Methodology & Datasets](#project-methodology--datasets)
 
-[Preliminary Data Analysis](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#preliminary-data-analysis)
-- [Total Number of Fires from Human Activity in BC from 1990 to 2021](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#total-number-of-fires-from-human-activity-in-bc-from-1990-to-2021)
-- [Total Number of Fires in BC from 1990 to 2021](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#total-number-of-fires-in-bc-from-1990-to-2021)
-- [Total Area Burned in Hectares in BC from 1990 to 2021](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#total-area-burned-in-hectares-in-bc-from-1990-to-2021)
+[Preliminary Data Analysis](#preliminary-data-analysis)
+- [Total Number of Fires from Human Activity in BC from 1990 to 2021](#total-number-of-fires-from-human-activity-in-bc-from-1990-to-2021)
+- [Total Number of Fires in BC from 1990 to 2021](#total-number-of-fires-in-bc-from-1990-to-2021)
+- [Total Area Burned in Hectares in BC from 1990 to 2021](#total-area-burned-in-hectares-in-bc-from-1990-to-2021)
 
 [Climate Change Analysis]()
-  - [Area Burned vs. Human Activity Fires in BC (1990-2020)](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#area-burned-vs-human-activity-fires-in-bc-1990-2020)
-  - [Atmospheric CO<sub>2</sub> vs Area Burned in BC (1990-2021)](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#atmospheric-co2-vs-area-burned-in-bc-1990-2021)
-  - [Area Burned in BC vs. Canada Fossil CO<sub>2</sub> Emissions (tons) (1990-2016)](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#area-burned-in-bc-vs-canada-fossil-co2-emissions-tons-1990-2016)
-  - [Annual Precipitation (mm) vs Area Burned (ha) in BC (1990-2021)](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#annual-precipitation-mm-vs-area-burned-ha-in-bc-1990-2021)
+  - [Area Burned vs. Human Activity Fires in BC (1990-2020)](#area-burned-vs-human-activity-fires-in-bc-1990-2020)
+  - [Atmospheric CO<sub>2</sub> vs Area Burned in BC (1990-2021)](#atmospheric-co2-vs-area-burned-in-bc-1990-2021)
+  - [Area Burned in BC vs. Canada Fossil CO<sub>2</sub> Emissions (tons) (1990-2016)](#area-burned-in-bc-vs-canada-fossil-co2-emissions-tons-1990-2016)
+  - [Annual Precipitation (mm) vs Area Burned (ha) in BC (1990-2021)](#annual-precipitation-mm-vs-area-burned-ha-in-bc-1990-2021)
 
-[Summary of Results](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#summary-of-results)
+[Summary of Results](#summary-of-results)
 
-[Discussion](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#discussion)
+[Discussion](#discussion)
 
-[Conclusion](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#conclusion)
+[Conclusion](#conclusion)
 
-[Bibliography](https://github.com/IzzyL3333/forest-fires-bc/new/main?filename=README.md#bibliography)
+[Bibliography](#bibliography)
 ## Project Questions
 1. Is the number of yearly human-caused fires across British Columbia, reported by the National Forestry Database, significantly positively correlated to the yearly number of hectares burned in British Columbia from 1990-2020?
 2. Is the yearly atmospheric carbon dioxide levels at Mauna Loa station significantly positively correlated to the yearly number of hectares burned in British Columbia from 1990-2021?
